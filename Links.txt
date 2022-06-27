@@ -29,6 +29,9 @@ Modelo de responsabilidade compartilhada da AWS https://aws.amazon.com/pt/compli
 Políticas e permissões no IAM: https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/access_policies.html
 AWS CloudTrail: https://aws.amazon.com/pt/cloudtrail/
 AWS Free Tier https://aws.amazon.com/pt/free/
+AWS Support https://aws.amazon.com/pt/premiumsupport/plans/
+AWS Certified Cloud Practitioner https://aws.amazon.com/pt/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1
+
 
 Carol
 
