@@ -125,3 +125,75 @@ Para conferir o conteúdo, faça seu cadastro em https://explore.skillbuilder.aw
 E venham nos visitar em agosto no Summit https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/
 
 Carol
+
+Pessoal, pra quem caiu ou chegou depois do início do Webinar, abaixo estão todos os links que compartilhamos no chat ao longo do nosso encontro de hoje para que possam copiar e guardar aí com vocês:
+
+Blog post Glacier- https://aws.amazon.com/pt/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/
+
+O que é AWS (Amazon Web Services) https://docs.aws.amazon.com/pt_br/whitepapers/latest/aws-overview/introduction.html
+
+Instâncias EC2 https://aws.amazon.com/pt/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc
+
+Tipos de instâncias EC2 https://aws.amazon.com/pt/ec2/instance-types/
+
+ELB https://aws.amazon.com/pt/elasticloadbalancing/
+
+Auto Scaling https://aws.amazon.com/pt/autoscaling/
+
+Cloud Watch https://aws.amazon.com/pt/cloudwatch/
+
+AWS SNS https://aws.amazon.com/pt/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
+AWS SQS https://aws.amazon.com/pt/sqs/
+
+Serverless na AWS https://aws.amazon.com/pt/serverless/
+
+AWS Lambda https://aws.amazon.com/pt/lambda/
+
+Infraestrutura Global da AWS https://aws.amazon.com/pt/about-aws/global-infrastructure/
+
+Amazon CloudFront https://aws.amazon.com/pt/cloudfront/
+
+VPC https://aws.amazon.com/pt/vpc/
+
+Visão geral da lista de controle de acesso (ACL) S3: https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/acl-overview.html
+
+Controlar o tráfego para sub-redes com ACLs da rede: https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-network-acls.html
+
+Controle o tráfego para recursos usando grupos de segurança: https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_SecurityGroups.html
+
+EBS https://aws.amazon.com/pt/ebs/
+
+S3 https://aws.amazon.com/pt/s3/?nc=sn&loc
+
+Categorias de armazenamento do Amazon S3 https://aws.amazon.com/pt/s3/storage-classes/
+
+Amazon RDS https://aws.amazon.com/pt/rds/
+
+Amazon Aurora https://aws.amazon.com/pt/rds/aurora/
+
+Amazon DynamoDB https://aws.amazon.com/pt/dynamodb/
+
+Modelo de responsabilidade compartilhada da AWS https://aws.amazon.com/pt/compliance/shared-responsibility-model/
+
+Políticas e permissões no IAM: https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/access_policies.html
+
+AWS CloudTrail: https://aws.amazon.com/pt/cloudtrail/
+
+AWS Free Tier https://aws.amazon.com/pt/free/
+
+AWS Support https://aws.amazon.com/pt/premiumsupport/plans/
+
+AWS Certified Cloud Practitioner https://aws.amazon.com/pt/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1
+
+Para conferir o conteúdo, faça seu cadastro em https://explore.skillbuilder.aws/ e após isso acesse o curso procurando na barra de buscas por: AWS Cloud Practitioner Essentials (Portuguese)
+
+público 12:30 PM
+Marilia Brito (Organizador)para Todos
+E venham nos visitar em agosto no Summit https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/
+
+público 12:30 PM
+Adriano Carezzato (Organizador)para Todos
+CPE: https://explore.skillbuilder.aws/learn/course/external/view/elearning/8287/aws-cloud-practitioner-essentials-portuguese
+
+
